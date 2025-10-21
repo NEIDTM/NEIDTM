@@ -1,16 +1,24 @@
-## Hi there 👋
+# Welcome to my GitHub profile 👋
 
-<!--
-**NEIDTM/NEIDTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I take on a wide range of projects and deliver practical solutions.  
+From bots and automation to web applications — I work on diverse challenges.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Work
+
+- **DiscordBot-VoiceManager** – A bot for creating and managing private voice channels on Discord.  
+- **Remote Control Tools** – Scripts and apps for managing Windows machines remotely.  
+
+Check out my [repositories](https://github.com/NEIDTM?tab=repositories) for more projects.
+
+---
+
+## ⚡ About Me
+
+- I take on **any interesting project** and focus on delivering results.  
+- Continuously exploring technologies and improving programming skills.  
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEIDTM&show_icons=true&theme=dark)
