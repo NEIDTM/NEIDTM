@@ -8,7 +8,6 @@ From bots and automation to web applications — I work on diverse challenges.
 ## 🚀 Projects & Work
 
 - **DiscordBot-VoiceManager** – A bot for creating and managing private voice channels on Discord.  
-- **Remote Control Tools** – Scripts and apps for managing Windows machines remotely.  
 
 Check out my [repositories](https://github.com/NEIDTM?tab=repositories) for more projects.
 
