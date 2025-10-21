@@ -20,7 +20,8 @@ From bots and automation to web applications — I work on diverse challenges.
 
 ## 🚀 Projects
 
-- **DiscordBot-VoiceManager** – A bot for creating and managing private voice channels on Discord.  
+- [**DiscordBot-VoiceManager**](https://github.com/NEIDTM/DiscordBot-VoiceManager) – A bot for creating and managing voice channels on Discord.  
+- [**TelegramBot-VideoDownloader**](https://github.com/NEIDTM/TelegramBot-VideoDownloader) - A Telegram bot for downloading videos from X (Twitter) and Pinterest with automatic conversion to MP4.
 
 Check out my [repositories](https://github.com/NEIDTM?tab=repositories) for more projects.
 
