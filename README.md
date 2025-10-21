@@ -1,37 +1,74 @@
-# Welcome to my GitHub profile 👋
+<div align="center">
 
-I take on a wide range of projects and deliver practical solutions.  
-From bots and automation to web applications — I work on diverse challenges.
+# 👋 Welcome to my GitHub profile
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Bot+Creator;Problem+Solver;Always+Learning" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="Typescript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://www.svgrepo.com/show/354107/nestjs.svg" alt="Nestjs" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/354107/nestjs.svg" alt="NestJS" width="50" height="50"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- [**DiscordBot-VoiceManager**](https://github.com/NEIDTM/DiscordBot-VoiceManager) – A bot for creating and managing voice channels on Discord.  
-- [**TelegramBot-VideoDownloader**](https://github.com/NEIDTM/TelegramBot-VideoDownloader) - A Telegram bot for downloading videos from X (Twitter) and Pinterest with automatic conversion to MP4.
+<div align="center">
 
-Check out my [repositories](https://github.com/NEIDTM?tab=repositories) for more projects.
+| Project | Description |
+|---------|-------------|
+| [**DiscordBot-VoiceManager**](https://github.com/NEIDTM/DiscordBot-VoiceManager) | 🎙️ Bot for creating and managing voice channels on Discord |
+| [**TelegramBot-VideoDownloader**](https://github.com/NEIDTM/TelegramBot-VideoDownloader) | 🎬 Telegram bot for downloading videos from X and Pinterest |
+
+[**View All Repositories →**](https://github.com/NEIDTM?tab=repositories)
+
+</div>
 
 ---
 
-## ⚡ About Me
+## 📊 GitHub Statistics
 
-- I take on **any interesting project** and focus on delivering results.  
-- Continuously exploring technologies and improving programming skills.  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NEIDTM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEIDTM&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NEIDTM&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEIDTM&show_icons=true&theme=dark)
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NEIDTM&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEIDTM&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *I take on any interesting project and focus on delivering results*
+
+<img src="https://komarev.com/ghpvc/?username=NEIDTM&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
+</div>
