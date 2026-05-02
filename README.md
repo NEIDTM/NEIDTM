@@ -1,9 +1,3 @@
-<div align="center">
-
-# 👋 Welcome to my GitHub profile
-
-</div>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
